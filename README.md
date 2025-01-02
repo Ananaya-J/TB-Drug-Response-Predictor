@@ -242,8 +242,8 @@ Slow Acetylator Genotypes
 3\. Integration with electronic health records  
 4\. Quality assurance programs
 
-**Application link:**  
-**https://github.com/arshaadak/Hackathon\_Phase1.git**
+**Github link:**  
+**https://github.com/Ananaya-J/TB-Drug-Response-Predictor.git**
 
 **References**
 
