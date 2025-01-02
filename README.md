@@ -1,9 +1,10 @@
 **TB DRUG RESPONSE PREDICTOR**   
 **(BASE MODEL FOCUSED ON NAT2 AND ISONIAZID)**  
+
 **Clarity Statement**   
 N-acetyltransferase 2 (NAT2) is a critical enzyme in the metabolism of isoniazid, a first-line antituberculosis drug. Genetic polymorphisms in the NAT2 gene significantly influence isoniazid metabolism, affecting both treatment efficacy and toxicity risk. This application provides a detailed analysis of NAT2 variants, their molecular characteristics, and clinical implications for predicting isoniazid dosage according to the mutations of individuals.
 
-## 1\. NAT2 Gene Structure and Function
+# 1\. NAT2 Gene Structure and Function
 
 1.1 Molecular Characteristics  
 \- Gene Location: Chromosome 8p22  
